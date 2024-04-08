@@ -1,0 +1,2 @@
+tabs: ['Program.cs']
+run-button: dotnet run
