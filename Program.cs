@@ -1,4 +1,4 @@
-namespace sample1;
+namespace Codedamn;
 
 class Program 
 {
